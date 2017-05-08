@@ -14,5 +14,6 @@ namespace Event_Management
 {
     class EventAdapter
     {
+
     }
 }
